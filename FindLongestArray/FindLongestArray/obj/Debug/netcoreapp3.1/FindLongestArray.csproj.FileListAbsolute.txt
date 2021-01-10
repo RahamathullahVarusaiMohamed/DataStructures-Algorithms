@@ -1,0 +1,13 @@
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\bin\Debug\netcoreapp3.1\FindLongestArray.exe
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\bin\Debug\netcoreapp3.1\FindLongestArray.deps.json
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\bin\Debug\netcoreapp3.1\FindLongestArray.runtimeconfig.json
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\bin\Debug\netcoreapp3.1\FindLongestArray.runtimeconfig.dev.json
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\bin\Debug\netcoreapp3.1\FindLongestArray.dll
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\bin\Debug\netcoreapp3.1\FindLongestArray.pdb
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\obj\Debug\netcoreapp3.1\FindLongestArray.csprojAssemblyReference.cache
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\obj\Debug\netcoreapp3.1\FindLongestArray.AssemblyInfoInputs.cache
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\obj\Debug\netcoreapp3.1\FindLongestArray.AssemblyInfo.cs
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\obj\Debug\netcoreapp3.1\FindLongestArray.csproj.CoreCompileInputs.cache
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\obj\Debug\netcoreapp3.1\FindLongestArray.dll
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\obj\Debug\netcoreapp3.1\FindLongestArray.pdb
+C:\Users\sheik\source\repos\FindLongestArray\FindLongestArray\obj\Debug\netcoreapp3.1\FindLongestArray.genruntimeconfig.cache
