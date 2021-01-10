@@ -1,0 +1,13 @@
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\bin\Debug\netcoreapp3.1\FindBalancedNumbers.exe
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\bin\Debug\netcoreapp3.1\FindBalancedNumbers.deps.json
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\bin\Debug\netcoreapp3.1\FindBalancedNumbers.runtimeconfig.json
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\bin\Debug\netcoreapp3.1\FindBalancedNumbers.runtimeconfig.dev.json
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\bin\Debug\netcoreapp3.1\FindBalancedNumbers.dll
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\bin\Debug\netcoreapp3.1\FindBalancedNumbers.pdb
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\obj\Debug\netcoreapp3.1\FindBalancedNumbers.AssemblyInfoInputs.cache
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\obj\Debug\netcoreapp3.1\FindBalancedNumbers.AssemblyInfo.cs
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\obj\Debug\netcoreapp3.1\FindBalancedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\obj\Debug\netcoreapp3.1\FindBalancedNumbers.dll
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\obj\Debug\netcoreapp3.1\FindBalancedNumbers.pdb
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\obj\Debug\netcoreapp3.1\FindBalancedNumbers.genruntimeconfig.cache
+C:\Users\sheik\source\repos\FindBalancedNumbers\FindBalancedNumbers\obj\Debug\netcoreapp3.1\FindBalancedNumbers.csprojAssemblyReference.cache
